@@ -1,0 +1,12 @@
+
+<resources>
+    <string name="app_name">Einkaufsliste xD</string>
+    <string name="modul1">Siehe oben... :(</string>
+    <string name="modul2">Listenliste</string>
+    <string name="modul3">DB-Auswertung</string>
+    <string name="settings">Einstellung(en)</string>
+    <string name="imp">WIR</string>
+    <string name="speichern">Speichern</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+</resources>
